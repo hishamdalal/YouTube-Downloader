@@ -3,5 +3,5 @@ Download Youtube video or audio and select any available resolution using pytube
 
 ![](https://raw.githubusercontent.com/hishamdalal/YouTube-Downloader/main/Screenshot.png)
 
-## How to use: 
+## Exe file path: 
 download output/Youtube.exe
