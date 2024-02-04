@@ -1,7 +1,7 @@
 # YouTube-Downloader
 Download Youtube video or audio and select any available resolution using pytube library
 
-![](https://github.com/hishamdalal/YouTube-Downloader/blob/master/icon.png?raw=true)
+![](https://raw.githubusercontent.com/hishamdalal/YouTube-Downloader/main/icon.png)
 
 ## How to use: 
 download output/Youtube.exe
